@@ -24,14 +24,14 @@ export default function HomePage() {
                 <span className="animate-pulse-dot inline-block h-1.5 w-1.5 rounded-full bg-brand-green" />
 
                 <span className="font-mono text-[10px] uppercase tracking-widest text-brand-green">
-                  Live Market · NGX
+                  Live Market ·
                 </span>
               </div>
 
               <h1 className="font-display text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white leading-[1.08] tracking-tight mb-6">
                 Invest in{' '}
                 <span className="text-brand-green">
-                  Nigeria&apos;s
+                the World&apos;s
                 </span>
                 <br />
                 Growth Story
@@ -39,7 +39,7 @@ export default function HomePage() {
 
               <p className="font-sans text-base text-brand-muted leading-relaxed mb-8 max-w-lg">
                 Ferguson Growth Capital channels investor funds into vetted,
-                high-growth Nigerian SMEs across Fintech, Agriculture,
+                high-growth world SMEs across Fintech, Agriculture,
                 Logistics, Retail, and Healthcare — with transparent,
                 real-time reporting like the markets you trust.
               </p>
@@ -118,12 +118,12 @@ export default function HomePage() {
               </div>
 
               <h2 className="font-display text-2xl sm:text-3xl font-bold text-white">
-                Real-Time NGX Market Overview
+                Real-Time world Market Overview
               </h2>
 
               <p className="font-sans text-sm text-brand-muted mt-2 max-w-lg">
                 Live prices, order book depth, trade feed,
-                and the full NGX board.
+                and the full world board.
               </p>
             </div>
 
@@ -151,11 +151,11 @@ export default function HomePage() {
               </div>
 
               <h2 className="font-display text-3xl sm:text-4xl font-bold text-white mb-5 leading-tight">
-                Backing the businesses building Nigeria&apos;s future.
+                Backing the businesses building the world&apos;s future.
               </h2>
 
               <p className="font-sans text-sm text-brand-muted leading-relaxed mb-6 max-w-md">
-                Ferguson Growth Capital invests in Nigerian
+                Ferguson Growth Capital invests in world
                 businesses with high growth potential.
               </p>
 
@@ -276,7 +276,7 @@ export default function HomePage() {
             </h2>
 
             <p className="font-sans text-sm text-brand-muted mb-8">
-              Join investors backing Nigeria&apos;s most promising SMEs.
+              Join investors backing world&apos;s most promising SMEs.
             </p>
 
             <div className="flex flex-wrap justify-center gap-3">
