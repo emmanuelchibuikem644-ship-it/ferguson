@@ -65,7 +65,7 @@ export default function HomePage() {
               <div className="mt-10 grid grid-cols-3 gap-4">
                 <StatCard
                   label="Min. Investment"
-                  value="₦200K"
+                  value="₦50K"
                 />
 
                 <StatCard
@@ -75,7 +75,7 @@ export default function HomePage() {
 
                 <StatCard
                   label="Horizon"
-                  value="3–6 mo"
+                  value="3–6 mon"
                 />
               </div>
             </div>
@@ -175,27 +175,27 @@ export default function HomePage() {
               </div>
 
               <h3 className="font-display text-xl font-bold text-white mb-5">
-                Investment: ₦200,000
+                Investment: ₦50,000
               </h3>
 
               <div className="space-y-1">
                 {[
                   {
                     label: 'Business profit in 3 months',
-                    value: '₦320,000',
+                    value: '₦80,000',
                   },
                   {
                     label: 'Management fee',
-                    value: '₦64,000',
+                    value: '₦16,000',
                     dim: true,
                   },
                   {
                     label: 'Investor profit share',
-                    value: '₦256,000',
+                    value: '₦64,000',
                   },
                   {
                     label: 'Total payout',
-                    value: '₦456,000',
+                    value: '₦114,000',
                     highlight: true,
                   },
                 ].map((row) => (
